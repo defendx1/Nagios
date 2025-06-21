@@ -1,6 +1,6 @@
 # Nagios Infrastructure Monitoring Installation Script
 
-![Nagios Logo](https://www.nagios.org/wp-content/uploads/2015/05/Nagios-Black-500x124.png)
+![Nagios Logo]([https://www.nagios.org/wp-content/uploads/2015/05/Nagios-Black-500x124.png](https://www.nagios.org/))
 
 A comprehensive automated installation script for deploying Nagios infrastructure monitoring platform with Docker, Nginx reverse proxy, and SSL certificates.
 
